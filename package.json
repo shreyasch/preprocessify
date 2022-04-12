@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/bibliolabs/preprocessify",
   "dependencies": {
-    "browserify-transform-tools": "~1.4.2",
+    "browserify-transform-tools": "^1.7.0",
     "preprocess": "~3.0.2"
   },
   "devDependencies": {
