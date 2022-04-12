@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bibliolabs/preprocessify.git"
+    "url": "https://github.com/shreyasch/preprocessify.git"
   },
   "keywords": [
     "browserify",
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/bibliolabs/preprocessify",
   "dependencies": {
-    "browserify-transform-tools": "^1.7.0",
+    "browserify-transform-tools": "https://github.com/shreyasch/browserify-transform-tools.git",
     "preprocess": "~3.0.2"
   },
   "devDependencies": {
