@@ -30,7 +30,7 @@
     "preprocess": "~3.0.2"
   },
   "devDependencies": {
-    "browserify": "^13.0.1",
+    "browserify": "https://github.com/shreyasch/browserify.git",
     "chai": "^3.5.0",
     "mocha": "^2.4.5",
     "path": "^0.12.7"
